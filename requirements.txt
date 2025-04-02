@@ -1,0 +1,4 @@
+streamlit>=1.37.0
+scikit-learn>=1.5.1
+scikit-plot>=0.3.7
+matplotlib>=3.6.2
